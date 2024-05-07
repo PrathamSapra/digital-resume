@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build A Digital Resume Using Python & Streamlit
 Create a digital resume in minutes with Python and Streamlit. In this tutorial, I'll show you what it takes to build a digital resume using Python and Streamlit.<br>
 
@@ -49,3 +50,6 @@ Love my content and want to show appreciation? Why not [buy me a coffee](https:/
 ## Feedback
 Got some thoughts or suggestions? Don't hesitate to reach out to me at contact@pythonandvba.com. I'd love to hear from you! 💡
 ![Logo](https://www.pythonandvba.com/banner-img)
+=======
+# digital-resume
+>>>>>>> origin1/main
