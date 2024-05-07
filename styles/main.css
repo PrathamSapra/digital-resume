@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=SF+Pro+Display:wght@300;400;500;600;700&display=swap');
+
+* {font-family: 'SF Pro Display', 'SF Pro Icons', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+background-color: #fafafceb;
+color: #333;
+}
+
+
+a {
+    text-decoration: none;
+    color: #333 !important;
+    font-weight: 500;
+}
+
+a:hover {
+    color: #0000ff !important;
+    text-decoration: none;
+}
+
+ul {list-style-type: none;}
+
+hr {
+    margin-top: 0px;
+    margin-bottom: 5%;
+}
+
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+header {visibility: hidden;}
+
